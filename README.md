@@ -2,6 +2,9 @@
 
 Public static pages for the iPhone app. No app source, private review-contact data, analytics or credentials are included.
 
-Live site: https://antonqmail.github.io/up-and-down-support/
+Live site: https://tryupanddown.com/
 
-When attaching a root custom domain, change the base href in all three HTML pages from `/up-and-down-support/` to `/`, configure the domain in GitHub Pages, and update the app and App Store Connect URLs after HTTPS is ready.
+Hosted on GitHub Pages from the main branch. The CNAME file assigns tryupanddown.com; GoDaddy DNS points the root domain and www to GitHub Pages. HTML pages use the domain root as their base URL.
+
+Support: https://tryupanddown.com/support/
+Privacy policy: https://tryupanddown.com/privacy/
